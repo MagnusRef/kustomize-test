@@ -1,2 +1,4 @@
 # kustomize-test
-just test some FluxCD nothing to see here
+
+just testing some FluxCD. Nothing to see here
+
